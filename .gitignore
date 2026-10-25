@@ -1,0 +1,10 @@
+# резервные копии и локальные файлы KiCad
+*-backups/
+*.kicad_prl
+*.lck
+~*
+fp-info-cache
+_autosave-*
+
+# результаты скрипта (генерируются заново)
+output/
